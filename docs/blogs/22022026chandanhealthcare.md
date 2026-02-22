@@ -5,6 +5,8 @@ slug: "chandan-healthcare-analysis-indian-diagnostics-fy26"
 keywords: ["Chandan Healthcare", "Indian diagnostics sector", "diagnostic companies India", "healthcare stocks India", "diagnostic sector growth", "small cap healthcare India"]
 author: "Priyanshu Jain"
 date: "2026-02-22"
+image: /assets/22022026chandanhealthcare.png
+
 ---
 
 # Chandan Healthcare = Vaibhav Suryaavanshi of Indian Diagnostics? 🏏

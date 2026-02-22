@@ -3,10 +3,10 @@ size: { width: 1200, height: 630 }
 layers:
   # Background MUST be first
   - background:
-      image: layouts/background.jpeg
+      image: layouts/background.png
 
   # Title layer
-  - size: { width: 900, height: 260 }
+  - size: { width: 900, height: 300 }
     offset: { x: 60, y: 90 }
     typography:
       content: "{{ page.title }}"

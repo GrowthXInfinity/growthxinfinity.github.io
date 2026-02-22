@@ -48,6 +48,7 @@ Prices as of market close — 18th February 2026.
 | India Grid Trust | 164.32 |
 
 This basket spans:
+
 - Healthcare
 - Diagnostics
 - Specialty chemicals
@@ -87,6 +88,7 @@ Potentially higher operating leverage.
 | Alpex Solar | 811.95 |
 
 MSME names require:
+
 - Strong balance sheet monitoring
 - Working capital discipline
 - Order book visibility
@@ -99,6 +101,7 @@ Liquidity risk must be priced in.
 ## 📈 What Matters Post Earnings
 
 Post Q3, focus shifts to:
+
 - FY26 guidance vs delivery
 - Margin sustainability
 - Capex intensity vs cash flow
@@ -114,6 +117,7 @@ Earnings durability does.
 ## ⚖️ Portfolio Allocation Framework
 
 Structured monitoring approach:
+
 - Core compounders → Strong ROCE + steady earnings
 - Tactical growth → Expansion-led stories
 - High beta bets → MSME / early-stage operators
@@ -128,6 +132,7 @@ Rebalancing must be thesis-driven, not price-driven.
 Q3 FY26 provided clarity across sectors.
 
 The next 2–3 quarters will differentiate:
+
 - Narratives vs numbers
 - Guidance vs execution
 - Expansion vs returns

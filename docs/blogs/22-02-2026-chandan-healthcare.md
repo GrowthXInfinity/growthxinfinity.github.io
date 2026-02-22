@@ -83,6 +83,7 @@ Pipeline:
 - PET Scan facility (Gorakhpur)  
 
 ### Capex Plan
+
 - ₹100 Cr over 3 years  
 - ~₹1 Cr per lab  
 

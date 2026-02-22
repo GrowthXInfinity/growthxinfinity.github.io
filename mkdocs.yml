@@ -1,39 +1,38 @@
-site_name: Coding Is Meditation
-site_description: Deep, practical docs on backend, systems, and engineering mindset
-site_url: https://codingismeditation.github.io/
+site_name: GrowthXInfinity
+site_description: Deep, practical docs on portfolios, growth, and infinite learning for everyone.
+site_url: https://growthxinfinity.github.io
 nav:
   - Home: index.md
-  - Interview:
-    - Index: interview/index.md
-    - Networking: interview/networking/index.md
-  - About: about.md
-  - Contributing: contributing.md
+  - Blogs: 
+    - Index: blogs/index.md
+    - Chandan Healthcare = Vaibhav Suryaavanshi of Indian Diagnostics? 🏏 : blogs/22022026chandanhealthcare.md
+  # - About: about.md
+  # - Contributing: contributing.md
   # - Backend:
   #     - Roadmap: backend/roadmap.md
   #     - Databases: backend/databases.md
   # - DevOps:
   #     - Docker: devops/docker.md 
 theme:
-  custom_dir: overrides
+  # custom_dir: overrides
   name: material
   logo: assets/images/logo.png
   favicon: assets/images/favicon.ico
   palette:
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: amber
-      accent: yellow
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
     # Palette toggle for light mode
     - scheme: default
-      primary: black
-      accent: yellow
+      primary: white
+      accent: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - content.code.select
     - content.code.annotate 
@@ -45,11 +44,11 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
+    # - navigation.sections
+    # - navigation.expand
     - navigation.path
     - navigation.prune
-    - toc.integrate
+    # - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -58,11 +57,11 @@ theme:
     - navigation.footer
 extra:
   parent_site:
-    name: CodingIsMeditation
-    url: https://codingismeditation.github.io/
+    name: GrowthXInfinity
+    url: https://growthxinfinity.github.io
   social:
     - icon: fontawesome/solid/house
-      link: https://codingismeditation.github.io/
+      link: https://growthxinfinity.github.io
       name: Home
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@CodingIsMeditation
@@ -74,7 +73,7 @@ extra:
       link: https://github.com/codingismeditation
       name: Author's GitHub
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/siddhantbuilds/
+      link: https://in.linkedin.com/in/priyanshujain2032
       name: Author's LinkedIn
     - icon: fontawesome/solid/paper-plane
       link: mailto:siddhant.bali.work@gmail.com
@@ -96,9 +95,9 @@ plugins:
   # - git-committers:
   #     repository: codingismeditation/codingismeditation.github.io
   #     branch: main
-repo_url: https://github.com/kintsugi-programmer
-repo_name: kintsugi-programmer
-copyright: Copyright &copy;2026 Siddhant Bali. All rights reserved.
+# repo_url: https://github.com/kintsugi-programmer
+# repo_name: kintsugi-programmer
+# copyright: Copyright &copy;2026 Siddhant Bali. All rights reserved.
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true

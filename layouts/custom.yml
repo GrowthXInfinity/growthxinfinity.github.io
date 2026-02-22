@@ -3,7 +3,7 @@ size: { width: 1200, height: 630 }
 layers:
   # Background MUST be first
   - background:
-      image: layouts/background.png
+      image: layouts/background.jpeg
 
   # Title layer
   - size: { width: 900, height: 260 }

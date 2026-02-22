@@ -1,6 +1,6 @@
 site_name: GrowthXInfinity
 site_description: Deep, practical docs on portfolios, growth, and infinite learning for everyone.
-site_url: https://growthxinfinity.github.io
+site_url: https://growthxinfinity.github.io/
 nav:
   - Home: index.md
   - Blogs: 

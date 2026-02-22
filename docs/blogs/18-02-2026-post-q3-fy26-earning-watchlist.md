@@ -13,7 +13,7 @@ date: "2026-02-23"
 
 Q3 FY26 earnings season is largely behind us.
 
-The next phase is not reaction — it is recalibration.  
+The next phase is not reaction; it is recalibration.  
 Capital allocation now depends on execution, guidance, and balance sheet strength.
 
 > Author: Priyanshu Jain, Date: 18-02-2026
@@ -22,7 +22,7 @@ Capital allocation now depends on execution, guidance, and balance sheet strengt
 
 ## 📊 Mainboard Companies Watchlist
 
-Prices as of market close — 18th February 2026.
+Prices as of market close; 18th February 2026.
 
 | Company | Market Price (₹) |
 |----------|-----------------|

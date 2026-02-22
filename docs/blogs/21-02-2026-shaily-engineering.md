@@ -18,7 +18,7 @@ Light humour.
 
 But behind it lies a serious structural opportunity.
 
-As GLP-1 drugs fuel the global weight-loss and diabetes revolution, one Indian manufacturer is quietly building exposure to the delivery ecosystem — **Shaily Engineering Plastics**.
+As GLP-1 drugs fuel the global weight-loss and diabetes revolution, one Indian manufacturer is quietly building exposure to the delivery ecosystem; **Shaily Engineering Plastics**.
 
 > Author: [Priyanshu Jain](https://in.linkedin.com/in/priyanshujain2032), Date: 21-02-2026
 
@@ -53,7 +53,7 @@ Shaily Engineering Plastics is a high-precision plastic components manufacturer 
 - Pharma delivery systems  
 - Consumer & industrial segments  
 
-In the GLP-1 segment, Shaily manufactures critical components used in injection pens — positioning itself as a supplier within a fast-growing therapeutic category.
+In the GLP-1 segment, Shaily manufactures critical components used in injection pens; positioning itself as a supplier within a fast-growing therapeutic category.
 
 This is not a typical cyclical industrial story.
 
@@ -127,7 +127,7 @@ And ecosystem leaders tend to consolidate demand.
 - Dependency on specific GLP-1 programs  
 - Regulatory changes in key export markets  
 
-Structural themes are powerful — but execution determines outcomes.
+Structural themes are powerful; but execution determines outcomes.
 
 ---
 
@@ -155,7 +155,7 @@ But component suppliers embedded in the ecosystem may quietly benefit as volumes
 
 Shaily represents a potential backend play on a front-end healthcare revolution.
 
-Execution, capacity utilisation, and customer stickiness will determine whether this remains thematic — or becomes structural compounding.
+Execution, capacity utilisation, and customer stickiness will determine whether this remains thematic; or becomes structural compounding.
 
 ---
 

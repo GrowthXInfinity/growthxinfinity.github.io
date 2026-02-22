@@ -14,7 +14,7 @@ nav:
   # - DevOps:
   #     - Docker: devops/docker.md 
 theme:
-  # custom_dir: overrides
+  custom_dir: overrides
   name: material
   logo: assets/images/logo.png
   favicon: assets/images/favicon.ico

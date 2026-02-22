@@ -20,7 +20,7 @@ But behind it lies a serious structural opportunity.
 
 As GLP-1 drugs fuel the global weight-loss and diabetes revolution, one Indian manufacturer is quietly building exposure to the delivery ecosystem — **Shaily Engineering Plastics**.
 
-> Author: [Priyanshu Jain](https://in.linkedin.com/in/priyanshujain2032) ,Date: 2026-02-22
+> Author: [Priyanshu Jain](https://in.linkedin.com/in/priyanshujain2032), Date: 21-02-2026
 
 ---
 

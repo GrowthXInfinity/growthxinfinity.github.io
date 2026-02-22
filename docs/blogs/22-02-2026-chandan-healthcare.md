@@ -16,7 +16,7 @@ Some attack.
 
 Chandan Healthcare is clearly playing in the powerplay.
 
-> Author: [Priyanshu Jain](https://in.linkedin.com/in/priyanshujain2032) ,Date: 2026-02-22
+> Author: [Priyanshu Jain](https://in.linkedin.com/in/priyanshujain2032), Date: 22-02-2026
 
 ---
 

@@ -4,8 +4,8 @@ site_url: https://growthxinfinity.github.io
 nav:
   - Home: index.md
   - Blogs: 
-    - Index: blogs/index.md
-    - Chandan Healthcare = Vaibhav Suryaavanshi of Indian Diagnostics? 🏏 : blogs/22022026chandanhealthcare.md
+    - Blogs : blogs/index.md
+    - Chandan Healthcare = Vaibhav Suryaavanshi of Indian Diagnostics? : blogs/22022026chandanhealthcare.md
   # - About: about.md
   # - Contributing: contributing.md
   # - Backend:

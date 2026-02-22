@@ -12,7 +12,7 @@ layers:
       content: "{{ page.title }}"
       align: start
       overflow: shrink
-      color: "#3E2723"
+      color: white
       line:
         amount: 3
         height: 1.25
